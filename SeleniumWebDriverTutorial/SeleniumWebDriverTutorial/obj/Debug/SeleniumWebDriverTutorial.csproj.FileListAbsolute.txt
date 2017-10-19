@@ -1,0 +1,10 @@
+c:\users\rgoes\documents\visual studio 2017\Projects\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\bin\Debug\SeleniumWebDriverTutorial.exe.config
+c:\users\rgoes\documents\visual studio 2017\Projects\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\bin\Debug\SeleniumWebDriverTutorial.exe
+c:\users\rgoes\documents\visual studio 2017\Projects\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\bin\Debug\SeleniumWebDriverTutorial.pdb
+c:\users\rgoes\documents\visual studio 2017\Projects\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\bin\Debug\WebDriver.dll
+c:\users\rgoes\documents\visual studio 2017\Projects\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\bin\Debug\WebDriver.xml
+c:\users\rgoes\documents\visual studio 2017\Projects\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\obj\Debug\SeleniumWebDriverTutorial.csprojResolveAssemblyReference.cache
+c:\users\rgoes\documents\visual studio 2017\Projects\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\obj\Debug\SeleniumWebDriverTutorial.exe
+c:\users\rgoes\documents\visual studio 2017\Projects\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\obj\Debug\SeleniumWebDriverTutorial.pdb
+c:\users\rgoes\documents\visual studio 2017\Projects\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\bin\Debug\WebDriver.Support.dll
+c:\users\rgoes\documents\visual studio 2017\Projects\SeleniumWebDriverTutorial\SeleniumWebDriverTutorial\bin\Debug\WebDriver.Support.xml
